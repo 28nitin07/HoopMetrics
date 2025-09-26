@@ -24,7 +24,7 @@ Commands available:
 
 ## Authors
 
-- [@bruhhnitin](https://github.com/bruhhnitin)
+- [@28nitin07](https://github.com/28nitin07)
   
 
 ## 🚀 About Me
